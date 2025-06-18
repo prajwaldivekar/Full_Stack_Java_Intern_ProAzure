@@ -76,6 +76,6 @@ public class ATM_machine {
             System.out.println("Username not found. Please check and try again.");
         }
 
-        sc.close();
+     
     }
 }
